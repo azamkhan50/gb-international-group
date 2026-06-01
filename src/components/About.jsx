@@ -202,7 +202,7 @@ export default function About() {
       </h4>
 
       <p className="text-gray-600 font-semibold mt-1">
-        Founder, GB International Group
+        Founder, GB International Group 
       </p>
     </div>
 
